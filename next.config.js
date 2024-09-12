@@ -8,6 +8,12 @@ module.exports = {
         port: "",
         pathname: "/dclisps7d/**",
       },
+      {
+        protocol: "https",
+        hostname: "mai.erpnext.cc",
+        port: "",
+        pathname: "/dclisps7d/**",
+      },
     ],
   },
 };
